@@ -2,6 +2,7 @@
 require 'opal-rspec'
 require 'bignum'
 
+
 RSpec.configure do |config|
 
 end
